@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="classes_metier\FICHE_PROJET.cs" />
+    <Compile Include="classes_metier\FICHE_PROMOTION.cs" />
     <Compile Include="frames\FRM_MARCHE_PUBLIC.cs">
       <SubType>Form</SubType>
     </Compile>
